@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+package guia2;
 
 public class Main {
 }
